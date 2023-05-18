@@ -1,0 +1,16 @@
+##############################
+# APP environment setting    #
+##############################
+APP_TITLE=RAID 3 Storage System
+APP_DESCRIPTION=Implement a simple web interface for the RAID 3 storage system.
+APP_VERSION=0.1.0
+APP_OPENAPI_URL=/openapi.json
+APP_PREFIX=/api
+
+##############################
+# File storage setting       #
+##############################
+UPLOAD_PATH=/tmp
+FOLDER_PREFIX=block
+NUM_DISKS=4
+MAX_SIZE=104857600

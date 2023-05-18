@@ -1,0 +1,20 @@
+# General
+.DS_Store
+.AppleDouble
+.LSOverride
+.vscode
+.env
+.coverage
+.pytest_cache
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Directories potentially created on remote AFP share
+.AppleDB
+.AppleDesktop
+Network Trash Folder
+Temporary Items
+.apdisk
